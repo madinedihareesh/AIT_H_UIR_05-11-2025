@@ -1,0 +1,8 @@
+What is Java script?
+ Java script is a light weight,object-based,heigh-level interpreter 
+ based language used to automate the tasks
+
+implementaion types:
+1.inline java script
+2.internal 
+3.external. extenstion .js
